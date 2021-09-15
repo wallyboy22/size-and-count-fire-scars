@@ -7,10 +7,12 @@ O objetivo deste projeto é realizar de forma replicavel a mensuração da área
  O acesso, o processamento e a modelagem dos dados foram realizados na plataforma em nuvem Google Earth Engine (https://earthengine.google.com/), por meio de scripts em javascript, disponiveis neste repositorio
  
 Endereço publico do asset com os dados do MapBiomas-Fogo (2021)
- /endereço /
+
+\endereço \
  
  Endereço do asset com a mensuração das cicatrizes
- /endereço/
+
+\endereço\
  
  A tabulação dos dados tambem foi realizada no Google Earth Engine, ja o tratamento dessa tabela foi realizado em um notebook utilizando python 3 e a renderização dos gráficos no em um painel datastudio no seguinte link
  
